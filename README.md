@@ -13,4 +13,5 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 
 **** use Maple DFU bootloader 2.0 option in the "upload method" present in the Arduino IDE.
 
-if stm32 bluepill fails to reset automatically during program upload, then set jumper pin 1(close to the reset switch) for automatic bluepill reset during file upload.
+if stm32 bluepill fails to reset automatically during program upload, then set jumper pin 1(close to the reset switch) for automatic bluepill reset during file upload. 
+the sample picture for this setting is present in this repository.
