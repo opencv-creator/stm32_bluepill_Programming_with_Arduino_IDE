@@ -29,4 +29,7 @@ install stm32 blue pill board using the below board manager link in arduino ide 
 
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 
+for the Board selection in Arduino IDE -- > STM32 MCU Based Boards --- > choose Generic STM32F1 series 
+for board Part Number ---> Generic F103C8TX
+
 
